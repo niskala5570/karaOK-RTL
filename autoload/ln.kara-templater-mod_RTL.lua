@@ -51,7 +51,7 @@
 
  local tr = aegisub.gettext
 
- script_name = tr"Karaoke Templater mod"
+ script_name = tr"Karaoke Templater mod RTL"
  script_description = tr"Macro and export filter to apply karaoke effects using the template language"
  script_author = "Niels Martin Hansen, mods by logarithm, RTL by Niskala5570"
  script_version = "2.1.7c_RTL"
